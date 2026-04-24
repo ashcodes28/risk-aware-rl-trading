@@ -46,10 +46,10 @@ advantage = target - value
 ## 📊 Results
 
 ### Reward per Episode
-![Rewards](results/rewards.png)
+![Rewards](rewards.png)
 
 ### Portfolio Value per Episode
-![Portfolio](results/portfolio.png)
+![Portfolio](portfolio.png)
 
 ### Observations
 - Rewards vary across episodes, indicating learning behavior  
